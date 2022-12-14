@@ -1,8 +1,9 @@
-```In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.```
+Dave Sparks and Art
 
-<sup> Can you please summarize the script in more detail, let's say in 10 bullet points</sup> 
+In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
 
-```
+**Can you please summarize the script in more detail, let's say in 10 bullet points</sup>**
+
 	-	A man is negotiating the purchase of a large number of helicopter parts.
 	-	The man is accompanied by his mechanic, Joe, who is helping him to understand the value of the parts.
 	-	The negotiation process has been somewhat contentious.
@@ -13,16 +14,15 @@
 	-	The man and his mechanic discuss the value of the parts and try to determine a fair price.
 	-	The negotiation continues, with the man expressing concern about the unclear terms of the deal.
 	-	The script ends without a clear resolution to the negotiation.
-```
 
-<sup> That's not right, let's make corrections to the following points as follows:
+**That's not right, let's make corrections to the following points as follows:
 1. The man is called Dave, let's name him like that in the bullet points.
 2. Add that they are also accompanied by a film crew and other friends of Dave.
 3. Describe this in 4 sentences please
 6. Describe why the seller does not want to sell in 6 sentences. Also name him Art please.
 1- The result of the negotiation is that Dave walks away from the deal after Art asks to send money to a foreign private military bank account
 
-After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.</sup> 
+After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.**
 
 	-	Dave is negotiating the purchase of a large number of helicopter parts.
 	-	Dave is accompanied by his mechanic, Joe, and a film crew and other friends.
@@ -37,15 +37,15 @@ After the bullet points, please add a 15 sentence perspective of the seller, tak
 	-	In the end, Dave decides to walk away from the deal after Art asks him to send money to a foreign private military bank account.
 From the seller's perspective, he has been trying to sell his collection of helicopter parts for months, but has been unable to find a buyer who is willing to pay a fair price. He has had to accept a much lower offer than the true value of his collection, which has left him feeling upset and emotional. He may have been forced to make this decision due to financial difficulties or other circumstances that have left him with no other choice. He is saddened to have to part with his beloved collection, but knows that it is the best decision for him given his current situation.
 
-##Let's retell the story from the perspective of Art's son, who is put into charge for selling all the items. What are the top 5 things he is worried about?***
+**Let's retell the story from the perspective of Art's son, who is put into charge for selling all the items. What are the top 5 things he is worried about?**
 
 	-	As Art's son, he is worried about getting a fair price for his father's collection of helicopter parts, which he knows is valuable.
 	-	He is concerned about the emotional toll that the sale will take on his father, who has spent a lot of time and energy building up the collection.
 	-	He is worried about the possibility of the deal falling through, which would be a disappointment for his father and a financial setback for the family.
 	-	He is anxious about dealing with potential buyers who are difficult or uncooperative, which could make the negotiation process even more challenging.
-	-	He is also concerned about the logistics of the sale, such as how to transport the parts and how to properly inventory and document everything that is being sold.```
+	-	He is also concerned about the logistics of the sale, such as how to transport the parts and how to properly inventory and document everything that is being sold.
 
-***What would some probable concerns for the seller be taking into account the validated fact that his company is doing business with private military.***
+**What would some probable concerns for the seller be taking into account the validated fact that his company is doing business with private military.**
 
 ```If the seller's company is doing business with private military, some probable concerns could include:
 	-	The potential legal and ethical implications of selling military-grade equipment to private military organizations.
@@ -54,7 +54,7 @@ From the seller's perspective, he has been trying to sell his collection of heli
 	-	The potential risk of losing government contracts or other business opportunities if the sale is seen as compromising the seller's integrity.
 	-	The potential financial implications of any fines or penalties that may be imposed if the sale is found to be illegal or unethical.```
 
-***That's not right. Art does not sell to government or authorities, but private small private militaries abroad the United States. How would such relationships between the companies start?***
+**That's not right. Art does not sell to government or authorities, but private small private militaries abroad the United States. How would such relationships between the companies start?***
 
 ```It is possible that the seller's company has developed relationships with small private militaries abroad through a variety of means. Some possible scenarios could include:
 	-	The seller's company may have been approached by private military organizations looking for specific equipment or services.
