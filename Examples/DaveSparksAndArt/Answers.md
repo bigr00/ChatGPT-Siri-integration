@@ -66,6 +66,7 @@ What would some probable concerns for the seller be taking into account the vali
 ---
 
 If the seller's company is doing business with private military, some probable concerns could include:
+
 	-	The potential legal and ethical implications of selling military-grade equipment to private military organizations.
 	-	The potential risk of backlash or criticism from the public or from government authorities if the sale is discovered.
 	-	The potential impact on the seller's reputation and business relationships if the sale becomes known.
