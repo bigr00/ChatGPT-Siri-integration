@@ -1,6 +1,6 @@
 >In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
 
-##Can you please summarize the script in more detail, let's say in 10 bullet points
+<sup> Can you please summarize the script in more detail, let's say in 10 bullet points</sup> 
 
 	-	A man is negotiating the purchase of a large number of helicopter parts.
 	-	The man is accompanied by his mechanic, Joe, who is helping him to understand the value of the parts.
@@ -13,14 +13,14 @@
 	-	The negotiation continues, with the man expressing concern about the unclear terms of the deal.
 	-	The script ends without a clear resolution to the negotiation.
 
-##That's not right, let's make corrections to the following points as follows:
+<sup> That's not right, let's make corrections to the following points as follows:
 1. The man is called Dave, let's name him like that in the bullet points.
 2. Add that they are also accompanied by a film crew and other friends of Dave.
 3. Describe this in 4 sentences please
 6. Describe why the seller does not want to sell in 6 sentences. Also name him Art please.
 1- The result of the negotiation is that Dave walks away from the deal after Art asks to send money to a foreign private military bank account
 
-After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.
+After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.</sup> 
 
 	-	Dave is negotiating the purchase of a large number of helicopter parts.
 	-	Dave is accompanied by his mechanic, Joe, and a film crew and other friends.
