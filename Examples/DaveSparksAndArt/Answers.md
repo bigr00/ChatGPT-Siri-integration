@@ -22,6 +22,7 @@ Can you please summarize the script in more detail, let's say in 10 bullet point
 ---
 
 That's not right, let's make corrections to the following points as follows:
+
 	-	The man is called Dave, let's name him like that in the bullet points.
 	-	Add that they are also accompanied by a film crew and other friends of Dave.
 	-	Describe this in 4 sentences please
