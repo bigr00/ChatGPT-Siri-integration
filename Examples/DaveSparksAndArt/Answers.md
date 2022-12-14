@@ -77,6 +77,7 @@ That's not right. Art does not sell to government or authorities, but private sm
 ---
 
 It is possible that the seller's company has developed relationships with small private militaries abroad through a variety of means. Some possible scenarios could include:
+
 	-	The seller's company may have been approached by private military organizations looking for specific equipment or services.
 	-	The seller's company may have been recommended to private military organizations by other clients or business partners.
 	-	The seller's company may have actively sought out private military organizations as potential clients through networking, marketing, or other means.
