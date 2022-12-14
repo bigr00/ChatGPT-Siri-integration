@@ -71,7 +71,7 @@ If the seller's company is doing business with private military, some probable c
 	-	The potential risk of backlash or criticism from the public or from government authorities if the sale is discovered.
 	-	The potential impact on the seller's reputation and business relationships if the sale becomes known.
 	-	The potential risk of losing government contracts or other business opportunities if the sale is seen as compromising the seller's integrity.
-	-	The potential financial implications of any fines or penalties that may be imposed if the sale is found to be illegal or unethical.```
+	-	The potential financial implications of any fines or penalties that may be imposed if the sale is found to be illegal or unethical.
 
 ---
 
@@ -116,7 +116,7 @@ Retell the story now from the perspective of Dave after Art was forced to leave 
 
 ---
 
-After Art was forced to leave his warehouse, the landlord liquidated the equipment to Dave. Dave began sorting through the warehouse, trying to understand what he had purchased and how he could best sell it. He was assisted by his mechanic, Joe, and a film crew, as well as other friends. As he sorted through the piles of parts and equipment, Dave realized that he had made a good deal and that the collection was worth far more than what he had paid for it. He was excited to start selling the parts and making a profit. However, he also faced some challenges, such as the need to properly inventory and document everything, and the challenge of finding the right buyers for the various parts and equipment. Overall, Dave was pleased with his purchase and looked forward to making a success of his new business.```
+After Art was forced to leave his warehouse, the landlord liquidated the equipment to Dave. Dave began sorting through the warehouse, trying to understand what he had purchased and how he could best sell it. He was assisted by his mechanic, Joe, and a film crew, as well as other friends. As he sorted through the piles of parts and equipment, Dave realized that he had made a good deal and that the collection was worth far more than what he had paid for it. He was excited to start selling the parts and making a profit. However, he also faced some challenges, such as the need to properly inventory and document everything, and the challenge of finding the right buyers for the various parts and equipment. Overall, Dave was pleased with his purchase and looked forward to making a success of his new business.
 
 ---
 
@@ -140,7 +140,7 @@ Let's adjust Art's character. He's emotional and fell into drug abuse. He is usi
 
 ---
 
-If Art is emotional and has fallen into drug abuse, specifically using cocaine and not sleeping, his behaviour in his current predicament would likely be erratic and unpredictable. He may be prone to mood swings and outbursts of anger or frustration. He may also have difficulty making rational decisions or communicating clearly. His drug use and lack of sleep may also make him more paranoid, anxious, and susceptible to hallucinations or delusions. In general, his behaviour would likely be unpredictable and potentially dangerous, both to himself and to others. It would be important for him to seek help and support in order to address his drug abuse and emotional distress, in order to improve his mental and physical health.```
+If Art is emotional and has fallen into drug abuse, specifically using cocaine and not sleeping, his behaviour in his current predicament would likely be erratic and unpredictable. He may be prone to mood swings and outbursts of anger or frustration. He may also have difficulty making rational decisions or communicating clearly. His drug use and lack of sleep may also make him more paranoid, anxious, and susceptible to hallucinations or delusions. In general, his behaviour would likely be unpredictable and potentially dangerous, both to himself and to others. It would be important for him to seek help and support in order to address his drug abuse and emotional distress, in order to improve his mental and physical health.
 
 ---
 
