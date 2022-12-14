@@ -1,4 +1,4 @@
->In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
+##In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
 
 <sup> Can you please summarize the script in more detail, let's say in 10 bullet points</sup> 
 
