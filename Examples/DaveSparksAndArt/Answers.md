@@ -1,8 +1,8 @@
 >In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
 
-***Can you please summarize the script in more detail, let's say in 10 bullet points***
+##Can you please summarize the script in more detail, let's say in 10 bullet points
 
->-	A man is negotiating the purchase of a large number of helicopter parts.
+	-	A man is negotiating the purchase of a large number of helicopter parts.
 	-	The man is accompanied by his mechanic, Joe, who is helping him to understand the value of the parts.
 	-	The negotiation process has been somewhat contentious.
 	-	The man expresses frustration at the shifting terms of the deal and the emotional involvement of the seller.
@@ -13,16 +13,16 @@
 	-	The negotiation continues, with the man expressing concern about the unclear terms of the deal.
 	-	The script ends without a clear resolution to the negotiation.
 
-***That's not right, let's make corrections to the following points as follows:
+##That's not right, let's make corrections to the following points as follows:
 1. The man is called Dave, let's name him like that in the bullet points.
 2. Add that they are also accompanied by a film crew and other friends of Dave.
 3. Describe this in 4 sentences please
 6. Describe why the seller does not want to sell in 6 sentences. Also name him Art please.
 1- The result of the negotiation is that Dave walks away from the deal after Art asks to send money to a foreign private military bank account
 
-After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.***
+After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.
 
->-	Dave is negotiating the purchase of a large number of helicopter parts.
+	-	Dave is negotiating the purchase of a large number of helicopter parts.
 	-	Dave is accompanied by his mechanic, Joe, and a film crew and other friends.
 	-	The negotiation process is contentious and emotionally charged.
 	-	Dave expresses frustration at the shifting terms of the deal and the emotional involvement of the seller, Art.
@@ -35,9 +35,9 @@ After the bullet points, please add a 15 sentence perspective of the seller, tak
 	-	In the end, Dave decides to walk away from the deal after Art asks him to send money to a foreign private military bank account.
 From the seller's perspective, he has been trying to sell his collection of helicopter parts for months, but has been unable to find a buyer who is willing to pay a fair price. He has had to accept a much lower offer than the true value of his collection, which has left him feeling upset and emotional. He may have been forced to make this decision due to financial difficulties or other circumstances that have left him with no other choice. He is saddened to have to part with his beloved collection, but knows that it is the best decision for him given his current situation.
 
-*** Let's retell the story from the perspective of Art's son, who is put into charge for selling all the items. What are the top 5 things he is worried about?***
+##Let's retell the story from the perspective of Art's son, who is put into charge for selling all the items. What are the top 5 things he is worried about?***
 
-```-	As Art's son, he is worried about getting a fair price for his father's collection of helicopter parts, which he knows is valuable.
+	-	As Art's son, he is worried about getting a fair price for his father's collection of helicopter parts, which he knows is valuable.
 	-	He is concerned about the emotional toll that the sale will take on his father, who has spent a lot of time and energy building up the collection.
 	-	He is worried about the possibility of the deal falling through, which would be a disappointment for his father and a financial setback for the family.
 	-	He is anxious about dealing with potential buyers who are difficult or uncooperative, which could make the negotiation process even more challenging.
