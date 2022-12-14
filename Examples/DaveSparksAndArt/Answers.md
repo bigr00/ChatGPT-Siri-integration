@@ -22,11 +22,11 @@ Can you please summarize the script in more detail, let's say in 10 bullet point
 ---
 
 That's not right, let's make corrections to the following points as follows:
-1. The man is called Dave, let's name him like that in the bullet points.
-2. Add that they are also accompanied by a film crew and other friends of Dave.
-3. Describe this in 4 sentences please
-6. Describe why the seller does not want to sell in 6 sentences. Also name him Art please.
-1- The result of the negotiation is that Dave walks away from the deal after Art asks to send money to a foreign private military bank account
+	-	The man is called Dave, let's name him like that in the bullet points.
+	-	Add that they are also accompanied by a film crew and other friends of Dave.
+	-	Describe this in 4 sentences please
+	-	Describe why the seller does not want to sell in 6 sentences. Also name him Art please.
+	-	The result of the negotiation is that Dave walks away from the deal after Art asks to send money to a foreign private military bank account
 
 After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.
 
@@ -43,6 +43,7 @@ After the bullet points, please add a 15 sentence perspective of the seller, tak
 	-	Dave and Joe try to determine a fair price for the parts and discuss the value of the collection.
 	-	The negotiation continues, with Dave expressing concern about the unclear terms of the deal.
 	-	In the end, Dave decides to walk away from the deal after Art asks him to send money to a foreign private military bank account.
+
 From the seller's perspective, he has been trying to sell his collection of helicopter parts for months, but has been unable to find a buyer who is willing to pay a fair price. He has had to accept a much lower offer than the true value of his collection, which has left him feeling upset and emotional. He may have been forced to make this decision due to financial difficulties or other circumstances that have left him with no other choice. He is saddened to have to part with his beloved collection, but knows that it is the best decision for him given his current situation.
 
 ---
