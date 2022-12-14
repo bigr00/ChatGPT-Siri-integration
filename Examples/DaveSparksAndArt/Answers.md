@@ -1,8 +1,8 @@
-```In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.```
+>In the script, a man is in the process of negotiating the purchase of a large number of helicopter parts from a seller. The man is accompanied by his mechanic, Joe, who is helping him to understand the value of what he is buying. The negotiation process has been somewhat contentious, with the man expressing frustration at the shifting terms of the deal and the emotional involvement of the seller. At one point, the man threatens to walk away from the deal entirely.
 
 ***Can you please summarize the script in more detail, let's say in 10 bullet points***
 
-```0.	A man is negotiating the purchase of a large number of helicopter parts.
+>0.	A man is negotiating the purchase of a large number of helicopter parts.
 	0.	The man is accompanied by his mechanic, Joe, who is helping him to understand the value of the parts.
 	0.	The negotiation process has been somewhat contentious.
 	0.	The man expresses frustration at the shifting terms of the deal and the emotional involvement of the seller.
@@ -11,7 +11,7 @@
 	0.	The seller appears to be emotional and upset during the negotiation.
 	0.	The man and his mechanic discuss the value of the parts and try to determine a fair price.
 	0.	The negotiation continues, with the man expressing concern about the unclear terms of the deal.
-	0.	The script ends without a clear resolution to the negotiation.```
+	0.	The script ends without a clear resolution to the negotiation.
 
 ***That's not right, let's make corrections to the following points as follows:
 1. The man is called Dave, let's name him like that in the bullet points.
@@ -22,7 +22,7 @@
 
 After the bullet points, please add a 15 sentence perspective of the seller, taking into account that the seller has been trying to sell what he owns for months and having to be forced to sell the lot at a very low amount compared to the value of the items sold. Add a possible scenario the seller would have to be in in order to have to make this decision.***
 
-```0.	Dave is negotiating the purchase of a large number of helicopter parts.
+>0.	Dave is negotiating the purchase of a large number of helicopter parts.
 	0.	Dave is accompanied by his mechanic, Joe, and a film crew and other friends.
 	0.	The negotiation process is contentious and emotionally charged.
 	0.	Dave expresses frustration at the shifting terms of the deal and the emotional involvement of the seller, Art.
@@ -33,7 +33,7 @@ After the bullet points, please add a 15 sentence perspective of the seller, tak
 	0.	Dave and Joe try to determine a fair price for the parts and discuss the value of the collection.
 	0.	The negotiation continues, with Dave expressing concern about the unclear terms of the deal.
 	0.	In the end, Dave decides to walk away from the deal after Art asks him to send money to a foreign private military bank account.
-From the seller's perspective, he has been trying to sell his collection of helicopter parts for months, but has been unable to find a buyer who is willing to pay a fair price. He has had to accept a much lower offer than the true value of his collection, which has left him feeling upset and emotional. He may have been forced to make this decision due to financial difficulties or other circumstances that have left him with no other choice. He is saddened to have to part with his beloved collection, but knows that it is the best decision for him given his current situation.```
+From the seller's perspective, he has been trying to sell his collection of helicopter parts for months, but has been unable to find a buyer who is willing to pay a fair price. He has had to accept a much lower offer than the true value of his collection, which has left him feeling upset and emotional. He may have been forced to make this decision due to financial difficulties or other circumstances that have left him with no other choice. He is saddened to have to part with his beloved collection, but knows that it is the best decision for him given his current situation.
 
 *** Let's retell the story from the perspective of Art's son, who is put into charge for selling all the items. What are the top 5 things he is worried about?***
 
