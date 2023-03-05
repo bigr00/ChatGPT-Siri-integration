@@ -8,6 +8,7 @@
 - Clipboard pasting and reading
 - Change system message to what you need.
 - One time request AND chat loop
+- Languages supported is more than English
 
 ## Guide
 
@@ -65,3 +66,6 @@ https://platform.openai.com/docs/guides/chat/managing-tokens
 
 When you have longer questions or longer answers, you will burn through your tokens faster. 
 One can limit tokens by adding the variable "max_tokens" to the API request *Get contents of URL*.
+
+## Language support
+Siri supports only a select amount of languages, but ChatGPT supports more.
