@@ -6,7 +6,8 @@
 - Supports Apple Watch, iPad, iPhone and MacOS
 - "Hey Siri" support
 - Clipboard pasting and reading
-- Change system message to what you need. Default: "You are a friendly assistant". Guide below.
+- Change system message to what you need.
+- One time request AND chat loop
 
 ## Guide
 
@@ -22,8 +23,39 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 You have free 18 dollars of usage with OpenAI. This will take a while to spend.
 
 ## You're set! Run the automation or use "Hey Siri".
+You can either run the automation without Siri, add it to your Dock or keyboard shortcut or ask Siri to run the automation. Current name of the Voice Assistant is Ask Smarty Pants. You can change that, by renaming the automation.
+
+Example Siri commands:
+"Hey Siri. Ask Smarty Pants. {Your prompt to ChatGPT}."
+"Hey Siri. Chat with Smarty Pants."
 
 ## Make your own automation
+The "Execute OpenAI API" automation is designed in a way that it is possible to use it in your own automation. It receives input from another automation and if there is no automation executing it, it will ask for input with a text box. 
+
+For example you can create automation specific to your own needs, forwarding input or using the output of the "Execute OpenAI API" automation in a custom way.
+
+Examples:
 
 
-## Changing system message and examples
+## Changing system message 
+
+System message is the context, or pre-load that you pass to ChatGPT before you start talking. 
+https://platform.openai.com/docs/guides/chat/introduction
+
+Examples:
+https://platform.openai.com/docs/guides/chat/introduction
+
+## One time Ask or Chat loop
+This will loop the asking until you close Siri or the automation window.
+
+## Clipboard features
+You can run the automation: "Copy to Smarty Pants" that will take your clipboard contents and forward it to ChatGPT alongside with the user input. 
+### This is limited by max tokens
+
+For example:
+- Copy a table of basketball scores.
+- Trigger "Copy to Smarty Pants"
+- "What are some interesting conclusions for this basketball game?"
+- Result is copied to clipboard.
+
+##
