@@ -6,9 +6,8 @@
 - Supports Apple Watch, iPad, iPhone and MacOS
 - "Hey Siri" support
 - Clipboard pasting and reading
-- Change system message to what you need.
-- One time request AND chat loop
-- Languages supported is more than English
+- Change system message to what you need
+- More languages supported than English
 
 ## Guide
 
