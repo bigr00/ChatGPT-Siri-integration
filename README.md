@@ -58,3 +58,10 @@ For example:
 
 ## Share the results
 You can use the "Share" functionality of the result window in the automation trigger or use the provided share automations.
+
+## Max tokens
+Every request is spent according to words used and words answered. Measuring unit is a token - about 0.75 English words.
+https://platform.openai.com/docs/guides/chat/managing-tokens
+
+When you have longer questions or longer answers, you will burn through your tokens faster. 
+One can limit tokens by adding the variable "max_tokens" to the 
