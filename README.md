@@ -35,18 +35,16 @@ The "Execute OpenAI API" automation is designed in a way that it is possible to 
 For example you can create automation specific to your own needs, forwarding input or using the output of the "Execute OpenAI API" automation in a custom way.
 
 Examples:
-
+https://github.com/bigr00/ChatGPT-Siri-integration/tree/main/Examples
 
 ## Changing system message 
 
 System message is the context, or pre-load that you pass to ChatGPT before you start talking. 
 https://platform.openai.com/docs/guides/chat/introduction
 
-Examples:
-https://platform.openai.com/docs/guides/chat/introduction
-
 ## One time Ask or Chat loop
-This will loop the asking until you close Siri or the automation window.
+You can either trigger a one-time execution or a chat execution - accumulating the answers.
+The loop will the asking until you close Siri or the automation window.
 
 ## Clipboard features
 You can run the automation: "Copy to Smarty Pants" that will take your clipboard contents and forward it to ChatGPT alongside with the user input. 
@@ -58,4 +56,5 @@ For example:
 - "What are some interesting conclusions for this basketball game?"
 - Result is copied to clipboard.
 
-##
+## Share the results
+You can use the "Share" functionality of the result window in the automation trigger or use the provided share automations.
