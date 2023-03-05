@@ -44,7 +44,7 @@ https://platform.openai.com/docs/guides/chat/introduction
 
 ## One time Ask or Chat loop
 You can either trigger a one-time execution or a chat execution - accumulating the answers.
-The loop will the asking until you close Siri or the automation window.
+The loop will ask until you close Siri or the automation window.
 
 ## Clipboard features
 You can run the automation: "Copy to Smarty Pants" that will take your clipboard contents and forward it to ChatGPT alongside with the user input. 
