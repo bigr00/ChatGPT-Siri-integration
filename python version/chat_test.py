@@ -13,14 +13,7 @@ frequency_penalty = 0.0
 def execute_prompt_chat_completion_api(messages) -> str:
     result = openai.ChatCompletion.create(
         model=model,
-        messages=messages,
-        max_tokens=max_tokens,
-        temperature=temperature,
-        top_p=top_p,
-        n=n,
-        stop=stop_sequence,
-        presence_penalty=presence_penalty,
-        frequency_penalty=frequency_penalty
+        messages=messages
     )
 
     return result["choices"][0]["message"]["content"]
