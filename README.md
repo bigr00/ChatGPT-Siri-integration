@@ -64,4 +64,4 @@ Every request is spent according to words used and words answered. Measuring uni
 https://platform.openai.com/docs/guides/chat/managing-tokens
 
 When you have longer questions or longer answers, you will burn through your tokens faster. 
-One can limit tokens by adding the variable "max_tokens" to the 
+One can limit tokens by adding the variable "max_tokens" to the API request *Get contents of URL*.
