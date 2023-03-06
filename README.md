@@ -14,10 +14,10 @@
 The basis of this service is the OpenAI chat completions. This requires an OpenAI API key.
 
 ### Guide for OpenAI API key
-1. Log into OpenAI (Google login supported) https://platform.openai.com
-2. Go to API keys: https://platform.openai.com/account/api-keys
+1. [Log into OpenAI (Google login supported)](https://platform.openai.com)
+2. [Go to API keys:](https://platform.openai.com/account/api-keys)
 3. "Create new secret key" -> Copy key
-4. Do not give your key to anybody! https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+4. [Do not give your key to anybody!](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 5. [Download "Execute OpenAI API.shortcut"](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
 6. Copy key to "Execute OpenAI API" shortcut Text 
 
@@ -40,8 +40,7 @@ https://github.com/bigr00/ChatGPT-Siri-integration/tree/main/Examples
 
 ## Changing system message 
 
-System message is the context, or pre-load that you pass to ChatGPT before you start talking. 
-https://platform.openai.com/docs/guides/chat/introduction
+System message is the context, or [pre-load that you pass to ChatGPT before you start talking.](https://platform.openai.com/docs/guides/chat/introduction)
 
 ## One time Ask or Chat loop
 You can either trigger a one-time execution or a chat execution - accumulating the answers.
@@ -49,7 +48,7 @@ The loop will ask until you close Siri or the automation window.
 
 ## Clipboard features
 You can run the automation: "Copy to Smarty Pants" that will take your clipboard contents and forward it to ChatGPT alongside with the user input. 
-### This is limited by max tokens
+### This is limited by max tokens - 4096 for ChatGPT
 
 For example:
 - Copy a table of basketball scores.
@@ -61,11 +60,12 @@ For example:
 You can use the "Share" functionality of the result window in the automation trigger or use the provided share automations.
 
 ## Max tokens
-Every request is spent according to words used and words answered. Measuring unit is a token - about 0.75 English words.
-https://platform.openai.com/docs/guides/chat/managing-tokens
+Every request is spent according to words used and words answered. [Measuring unit is a token - about 0.75 English words.](https://platform.openai.com/docs/guides/chat/managing-tokens)
 
 When you have longer questions or longer answers, you will burn through your tokens faster. 
 One can limit tokens by adding the variable "max_tokens" to the API request *Get contents of URL*.
+
+Every model has their own maximum query size - ChatGPT has 4096.
 
 ## Language support
 Siri supports only a select amount of languages, but ChatGPT supports more.
