@@ -8,6 +8,7 @@
 - Clipboard pasting and reading
 - Change system message to what you need
 - More languages supported than English
+- Keyboard shortcuts to trigger ChatGPT
 
 ## Guide
 
