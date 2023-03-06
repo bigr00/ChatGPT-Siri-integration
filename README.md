@@ -15,8 +15,8 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 
 ### Guide for OpenAI API key
 1. [Log into OpenAI (Google login supported)](https://platform.openai.com)
-2. [Go to API keys:](https://platform.openai.com/account/api-keys)
-3. "Create new secret key" -> Copy key. Once key is created, it is hidden from web.
+2. [Go to API keys](https://platform.openai.com/account/api-keys)
+3. Create new secret key -> Copy key. Once key is created, it is hidden from web, take that into account.
 4. [Do not give your key to anybody!](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 5. Download [Execute OpenAI API.shortcut](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
 6. Copy key to "Execute OpenAI API" shortcut Text 
