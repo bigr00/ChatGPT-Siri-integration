@@ -29,8 +29,8 @@ You have free 18 dollars of usage with OpenAI. This will take a while to spend.
 You can either run the automation without Siri, add it to your Dock or keyboard shortcut or ask Siri to run the automation. Current name of the Voice Assistant is Ask Smarty Pants. You can change that, by renaming the automation.
 
 Example Siri commands:
-"Hey Siri. Ask Smarty Pants. {Your prompt to ChatGPT}."
-"Hey Siri. Use clipboard with Smarty Pants."
+"Hey Siri. Ask Smarty Pants. What are some good programming languages for smartphones?."
+"Hey Siri. Use clipboard with Smarty Pants. Translate it to English and change the tone to friendly."
 
 ## Make your own automation
 The "Execute OpenAI API" automation is designed in a way that it is possible to use it in your own automation. It receives input from another automation and if there is no automation executing it, it will ask for input with a text box. 
