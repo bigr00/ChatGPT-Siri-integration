@@ -18,7 +18,8 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 2. Go to API keys: https://platform.openai.com/account/api-keys
 3. "Create new secret key" -> Copy key
 4. Do not give your key to anybody! https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
-5. Copy key to "Execute OpenAI API" shortcut Text 
+5. [Download "Execute OpenAI API.shortcut"](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
+6. Copy key to "Execute OpenAI API" shortcut Text 
 
 You have free 18 dollars of usage with OpenAI. This will take a while to spend.
 
@@ -27,7 +28,7 @@ You can either run the automation without Siri, add it to your Dock or keyboard 
 
 Example Siri commands:
 "Hey Siri. Ask Smarty Pants. {Your prompt to ChatGPT}."
-"Hey Siri. Chat with Smarty Pants."
+"Hey Siri. Use clipboard with Smarty Pants."
 
 ## Make your own automation
 The "Execute OpenAI API" automation is designed in a way that it is possible to use it in your own automation. It receives input from another automation and if there is no automation executing it, it will ask for input with a text box. 
