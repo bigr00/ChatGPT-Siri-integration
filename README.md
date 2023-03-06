@@ -21,7 +21,8 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 5. [Download "Execute OpenAI API.shortcut"](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
 6. Copy key to "Execute OpenAI API" shortcut Text 
 7. Run automation, allow permissions. [Short guide.](#about-shortcut-files)
-8. [Download more .shortcut files that uses "Execute OpenAI API.shortcut".](https://github.com/bigr00/ChatGPT-Siri-integration)
+8. Download [Ask Smarty Pants](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Ask%20Smarty%20Pants.shortcut)
+9. [Download more .shortcut files that uses "Execute OpenAI API.shortcut".](https://github.com/bigr00/ChatGPT-Siri-integration)
 
 You have free 18 dollars of usage with OpenAI. This will take a while to spend.
 
