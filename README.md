@@ -8,6 +8,7 @@
 - Clipboard pasting and reading
 - Change system message to what you need
 - More languages supported than English
+- Keyboard shortcuts to trigger ChatGPT
 
 ## Guide
 
@@ -21,16 +22,16 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 5. Download [Execute OpenAI API.shortcut](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
 6. Copy key to "Execute OpenAI API" shortcut Text 
 7. Run automation, allow permissions. [Short guide.](#about-shortcut-files)
-8. Download [Ask Smarty Pants](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Ask%20Smarty%20Pants.shortcut)
+8. Download [Smarty Pants](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Smarty%20Pants.shortcut)
 9. [Download more .shortcut files that uses "Execute OpenAI API.shortcut".](https://github.com/bigr00/ChatGPT-Siri-integration)
 
 You have free 18 dollars of usage with OpenAI. This will take a while to spend.
 
 ## You're set! Run the automation or use "Hey Siri".
-You can either run the automation without Siri, add it to your Dock or keyboard shortcut or ask Siri to run the automation. Current name of the Voice Assistant is Ask Smarty Pants. You can change that, by renaming the automation.
+You can either run the automation without Siri, add it to your Dock or keyboard shortcut or ask Siri to run the automation. Current name of the Voice Assistant is Smarty Pants. You can change that, by renaming the automation.
 
 Example Siri commands:
-- "Hey Siri. Ask Smarty Pants. What are some good programming languages for smartphones?."
+- "Hey Siri. Smarty Pants. What are some good programming languages for smartphones?."
 - "Hey Siri. Use clipboard with Smarty Pants. Translate it to English and change the tone to friendly."
 
 ## Make your own automation
