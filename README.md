@@ -35,8 +35,7 @@ The "Execute OpenAI API" automation is designed in a way that it is possible to 
 
 For example you can create automation specific to your own needs, forwarding input or using the output of the "Execute OpenAI API" automation in a custom way.
 
-Examples:
-https://github.com/bigr00/ChatGPT-Siri-integration/tree/main/Examples
+[Examples.](https://github.com/bigr00/ChatGPT-Siri-integration/tree/main/Examples)
 
 ## Changing system message 
 
