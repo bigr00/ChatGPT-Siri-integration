@@ -20,7 +20,7 @@ The basis of this service is the OpenAI chat completions. This requires an OpenA
 4. [Do not give your key to anybody!](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 5. [Download "Execute OpenAI API.shortcut"](https://github.com/bigr00/ChatGPT-Siri-integration/blob/main/Execute%20OpenAI%20API.shortcut)
 6. Copy key to "Execute OpenAI API" shortcut Text 
-7. Run automation, allow permissions.
+7. Run automation, allow permissions. [Short guide.](About .shortcut files)
 8. [Download more .shortcut files that uses "Execute OpenAI API.shortcut".](https://github.com/bigr00/ChatGPT-Siri-integration)
 
 You have free 18 dollars of usage with OpenAI. This will take a while to spend.
@@ -70,3 +70,5 @@ Every model has their own maximum query size - ChatGPT has 4096.
 
 ## Language support
 Siri supports only a select amount of languages, but ChatGPT supports more.
+
+## About .shortcut files
